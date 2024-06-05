@@ -6,6 +6,16 @@ RESUME
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RESUME</title> <!--NAME OF RESUME-->
+    <style>
+        html {
+            font-size: 22px;
+        }
+
+        body {
+            background-color: #111010;
+            color: rgb(169, 231, 233);
+        }
+    </style> 
 
 </head>
 <body>
